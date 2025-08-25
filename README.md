@@ -25,6 +25,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-solanki&show_icons=true&locale=en&layout=compact" alt="pranav-solanki" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav-solanki&show_icons=true&locale=en" alt="pranav-solanki" /></p>
+<p align="center">
+  <img src="https://<your‑app‑name>.vercel.app/?user=Pranav‑solanki&theme=tokyonight" alt="Pranav‑solanki's GitHub Streak" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-solanki"/>
 
